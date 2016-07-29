@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-plumber": "*",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-watch": "*",
+    "rimraf": "*",
+    "gulp-autoprefixer": "*",
+    "node-sass": "*"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-headerfooter": "*"
+  }
+}

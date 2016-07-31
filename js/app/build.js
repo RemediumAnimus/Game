@@ -1,5 +1,5 @@
 "use strict"
-define(["./app/functions/_easing"], function(_easing){
+define(function(){
 
     (function() {
 	    var lastTime = 0;
